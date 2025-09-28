@@ -9,6 +9,6 @@
 1. Run `pnpm dev`
 
 ## Build
-1. Run `pnpm build`
+1. Run `pnpm build`\
    Or `pnpm build -i [myfolder]` for only building one animation
 2. Test your animation by doing `pnpm run preview -i [myfolder]`
