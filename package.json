@@ -14,7 +14,6 @@
   },
   "dependencies": {
     "commander": "^14.0.1",
-    "lottie-web": "^5.13.0",
-    "vite-plugin-zip-pack": "^1.2.4"
+    "lottie-web": "^5.13.0"
   }
 }
