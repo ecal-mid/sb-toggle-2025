@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100dvh;
+  overflow: hidden;
+}
+
+.lottie {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+}
+
+.button {
+  cursor: pointer;
+}
+.text {
+  pointer-events: none;
+  user-select: none;
+}
