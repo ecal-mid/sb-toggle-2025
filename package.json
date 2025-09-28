@@ -1,0 +1,20 @@
+{
+  "name": "toggle-2025-3",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node vite.compiler.js --mode build",
+    "preview": "node vite.compiler.js --mode preview"
+  },
+  "devDependencies": {
+    "vite": "^7.1.7",
+    "vite-plugin-directory-index": "^3.0.1"
+  },
+  "dependencies": {
+    "commander": "^14.0.1",
+    "lottie-web": "^5.13.0",
+    "vite-plugin-zip-pack": "^1.2.4"
+  }
+}

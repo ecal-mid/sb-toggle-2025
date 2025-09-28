@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100dvh;
+  overflow: hidden;
+}
+
+.lottie {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+}
+
+#button {
+  cursor: pointer;
+}
+
+#button path {
+  transition: fill 0.3s;
+}
+
+#button:hover path {
+  fill: red;
+}
